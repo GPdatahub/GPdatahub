@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gayatri
-- 👀 I’m a Data Analyst ...
+- 👀 I’m a Junior Data Analyst ...
 -
 <!---
 GPdatahub/GPdatahub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
